@@ -1,0 +1,7 @@
+app:
+  name: "Test Application"
+  values:
+    - "Test Config A"
+    - "Test Config B"
+    - "Mock Data Enabled"
+  example-test: ${EXAMPLE_TEST:default}
