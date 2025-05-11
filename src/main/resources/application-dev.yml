@@ -1,0 +1,7 @@
+app:
+  name: "Development Application"
+  values:
+    - "Dev Config 1"
+    - "Dev Config 2"
+    - "Debug Mode Enabled"
+  example-test: ${EXAMPLE_TEST:default}

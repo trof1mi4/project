@@ -1,0 +1,7 @@
+app:
+  name: "Production Application"
+  values:
+    - "Prod Config X"
+    - "Prod Config Y"
+    - "High Security Mode"
+  example-test: ${EXAMPLE_TEST:default}
